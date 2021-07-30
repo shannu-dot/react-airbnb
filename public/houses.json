@@ -1,0 +1,40 @@
+[
+    {
+        "id":1,
+        "address":"Kukatpally,hyderabad",
+        "country":"India",
+        "description":"A superb detached property on one of nicest place",
+        "price":900000,
+        "photo":"277667"
+    },
+    {
+        "id":2,
+        "address":"Banjara Hills,Ohio",
+        "country":"USA",
+        "description":" A house is a single-unit residential building, which may range in complexity from a rudimentary hut to a complex structure of wood, masonry, concrete or other material, outfitted with plumbing, electrical, and heating, ventilation, and air conditioning systems.",
+        "price":1200000,
+        "photo":"277668"
+    },
+    {
+        "id":3,
+        "address":"Madhapur,hyderabad",
+        "country":"India",
+        "description":"A house is a single-unit residential building, which may range in complexity from a rudimentary hut to a complex structure of wood, masonry, concrete or other material, outfitted with plumbing, electrical, and heating, ventilation, and air conditioning systems.",
+        "price":1500000,
+        "photo":"277669"
+    },    {
+        "id":4,
+        "address":"Madhapur,hyderabad",
+        "country":"USA",
+        "description":"A house is a single-unit residential building, which may range in complexity from a rudimentary hut to a complex structure of wood, masonry, concrete or other material, outfitted with plumbing, electrical, and heating, ventilation, and air conditioning systems.",
+        "price":1500000,
+        "photo":"277668"
+    },    {
+        "id":5,
+        "address":"Madhapur,hyderabad",
+        "country":"USA",
+        "description":"A house is a single-unit residential building, which may range in complexity from a rudimentary hut to a complex structure of wood, masonry, concrete or other material, outfitted with plumbing, electrical, and heating, ventilation, and air conditioning systems.",
+        "price":1500000,
+        "photo":"277667"
+    }
+]
